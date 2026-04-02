@@ -7,7 +7,7 @@ set a 13
 puts $a
 set str "hello five"
 puts $str
-set "name surname" "Pedro Fernandes"
+set "name surname" "Pedro Henrique"
 puts ${name surname}
 # Variable Ref
 upvar 0 a b;
